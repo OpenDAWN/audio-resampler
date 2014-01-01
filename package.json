@@ -1,0 +1,26 @@
+{
+  "name": "audio-resampler",
+  "version": "0.0.1",
+  "description": "Resampling PCM streams, using JavaScript only. Converts bit depth, sample rate and mono/stereo. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alfreddatakillen/audio-resampler.git"
+  },
+  "keywords": [
+    "audio",
+    "sound",
+    "pcm",
+    "wav",
+    "resampling"
+  ],
+  "author": "Alfred Godoy",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/alfreddatakillen/audio-resampler/issues"
+  },
+  "homepage": "https://github.com/alfreddatakillen/audio-resampler"
+}
